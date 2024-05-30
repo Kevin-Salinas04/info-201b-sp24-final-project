@@ -1,3 +1,16 @@
 # Introduction
 
-An introductory page that provides an overview of the project. What major questions are you seeking to answer? What data are you using to answer those questions? Please provide a URL link to the original source(s) of the data. Where did the data come from, and what are possible ethical questions or limitations to consider with this dataset? You should also include some additional "flare" on this landing page, such as an image.
+An introductory page that provides an overview of the project. What major questions are you seeking to answer? 
+
+This project is to show people who are interested in sleep problems such as insomnia.Also it is for people who might also suffer from trying to fall asleep at night.
+I have found a data table that has so much data about people who are of different ages and different ocupations. It also includes how long that person sleeps and the
+quality of the sleep that person got. There will be three different pages that include this data table and should have different ways to ineract with it in each page.    
+I am seeking to find out the different reasons why people might suffer from somthing like insomnia, it could be from the their job or age or how much activity they 
+do during the day. Also, what is the biggest reason people suffer from something like insomnia. I am using a data table I found online to answer those questions 
+becasue they include exactly what I am asking.(https://github.com/OludolapoAnalyst/Sleep-and-Lifestyle-Dataset)
+The source is from kaggle(https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset) 
+did the people they use to study give them permission to study their sleep or did they study their sleep without asking th eperson first?
+
+
+
+
